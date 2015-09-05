@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/home/sabermod/tmp/arm-linux-androideabi-4.9/arch-arm/usr/include/linux/a.out.h"
+	"/home/saber-dev/tmp/arm-linux-androideabi-4.9/arch-arm/usr/include/linux/a.out.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */
